@@ -1,0 +1,31 @@
+[
+	{
+		"courierId": 1,
+		"coordinates" : {
+			"lat": 40.9920000,
+			"lng": 29.1244000
+		}
+		
+	},
+	{
+		"courierId": 2,
+		"coordinates" : {
+			"lat": 40.9923000,
+			"lng": 29.1240000
+		}
+	},
+	{
+		"courierId": 3,
+		"coordinates" : {
+			"lat": 40.9923007,
+			"lng": 29.1200229
+		}
+	},
+	{
+		"courierId": 4,
+		"coordinates" : {
+			"lat": 40.9920007,
+			"lng": 29.1244220
+		}
+	}
+]

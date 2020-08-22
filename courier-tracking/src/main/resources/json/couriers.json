@@ -1,0 +1,22 @@
+[
+	{
+		"courierId": 1,
+		"latitude": 40.9920000,
+		"longitude": 29.1244000
+	},
+	{
+		"courierId": 2,
+		"latitude": 40.9923000,
+		"longitude": 29.1240000
+	},
+	{
+		"courierId": 3,
+		"latitude": 40.9923007,
+		"longitude": 29.1200229
+	},
+	{
+		"courierId": 4,
+		"latitude": 40.9920007,
+		"longitude": 29.1244220
+	}
+]
